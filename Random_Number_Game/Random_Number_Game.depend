@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698072456 source:/home/bossmonster/Documents/Jason Douma SCS4U/Random_Number_Game/main.cpp
+	<iostream>
+	<ctime>
+
